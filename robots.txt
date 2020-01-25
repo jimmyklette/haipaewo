@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooloojoor.swiftfight.club/sitemap.xml
